@@ -1,6 +1,15 @@
-* {
-    margin: 0;
+
+*{
     padding: 0;
-    box-sizing: content-box;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
     font-family: 'Comfortaa', cursive;
+}
+
+.container {
+    width: 80px;
+    margin: 0 auto;
+    max-width: 1320px;
 }
