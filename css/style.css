@@ -13,6 +13,10 @@
   max-width: 1320px;
 }
 
+.main-head {
+  background-color: #026efd;
+}
+
 nav {
   display: flex;
   width: 90%;
